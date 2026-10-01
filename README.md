@@ -20,7 +20,7 @@ This project analyzes a comprehensive global sales dataset to uncover insights i
 ## Dashboard Preview
 Below is a screenshot of the interactive Excel dashboard built to visualize these key performance indicators (KPIs):
 
-![Global Sales Dashboard](dashboard.png)
+![Global Sales Dashboard](dashboard.jpg)
 
 ## Tech Stack & Excel Features Used
 * **Data Cleaning & Engineering:** Utilized Power Query to handle missing fields, change data types, and standardise geographic regions.
